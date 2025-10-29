@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1759586578 source:c:\users\rend1\kuliah\smt 3\struktur data\praktikum\tp_mod_4_single-linked-list\list.cpp
+	"list.h"
+	<iostream>
+
+1759586329 c:\users\rend1\kuliah\smt 3\struktur data\praktikum\tp_mod_4_single-linked-list\list.h
+	<iostream>
+
+1759586496 source:c:\users\rend1\kuliah\smt 3\struktur data\praktikum\tp_mod_4_single-linked-list\main.cpp
+	"list.h"
+	<iostream>
+
